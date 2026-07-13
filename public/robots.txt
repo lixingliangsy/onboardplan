@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onboardplan.com/sitemap.xml
