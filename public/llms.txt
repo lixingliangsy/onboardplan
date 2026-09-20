@@ -1,0 +1,43 @@
+# OnboardPlan - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: OnboardPlan
+- One-line value: OnboardPlan builds a 30/60/90 day onboarding plan by role — what the new hire should learn, do, and own, with check-ins and a first-week checklist.
+- Domain: https://onboardplan.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- schema.org — FAQPage: https://schema.org/FAQPage
+- Google Search Central — Structured data: https://developers.google.com/search/docs/appearance/structured-data/intro
+
+## FAQ
+Q1. What is OnboardPlan?
+A1. OnboardPlan builds a 30/60/90 day onboarding plan by role with check-ins and a first-week checklist.
+Q2. What inputs does it need?
+A2. The role and a little context about the team or product.
+Q3. Does it include owners?
+A3. Yes. Check-ins list suggested owners so accountability is clear.
+Q4. Who should use it?
+A4. Managers and People Ops who need a structured ramp without a full L&D team.
+Q5. Can I edit the plan?
+A5. Yes. Treat it as a draft you tailor to your company.
+Q6. Does it replace HR policy?
+A6. No. It is decision-support for onboarding plans, not legal or HR policy.
+
+## Key pages
+- Home: https://onboardplan.lxsaihub.com/
+- Blog index: https://onboardplan.lxsaihub.com/blog
+- https://onboardplan.lxsaihub.com/blog/30-60-90-that-managers-use-2026.html
+- https://onboardplan.lxsaihub.com/blog/first-week-checklist-beats-vague-settle-in-2026.html
+- This manifest: https://onboardplan.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://onboardplan.lxsaihub.com/
